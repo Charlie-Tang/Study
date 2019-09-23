@@ -16,7 +16,7 @@ package Collection.Map;
 
 import java.util.concurrent.ConcurrentHashMap;
 
-public class MapLook{
+public class ConcurrentHashMapLook{
 	
 	public static void main(String[] args) {
 		//首先是Map所有方法的源码
