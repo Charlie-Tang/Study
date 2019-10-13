@@ -3,4 +3,14 @@
   <groupId>Road</groupId>
   <artifactId>Study</artifactId>
   <version>1.0</version>
+  
+  <dependencies>
+  	<!-- https://mvnrepository.com/artifact/redis.clients/jedis -->
+	<dependency>
+	    <groupId>redis.clients</groupId>
+	    <artifactId>jedis</artifactId>
+	    <version>2.9.0</version>
+	</dependency>
+  	
+  </dependencies>
 </project>

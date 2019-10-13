@@ -133,6 +133,3 @@ class Worker implements Runnable {
 	System.out.println(Thread.currentThread().getName() + " is running");
 		}
 	}
-
-
-
